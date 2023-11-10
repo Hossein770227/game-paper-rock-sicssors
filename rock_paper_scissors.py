@@ -1,10 +1,10 @@
 import os
 os.system('cls')
 
-def print_welcome():
+def welcome_massage():
     print('Welcome to this game.')
     print('Thanks for choice us. ')
     print('Please start the game.')
     print('-'*35)
 
-print_welcome()
+welcome_massage()
